@@ -1,0 +1,14 @@
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\bin\Release\SuperFileCategorizer.exe.config
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\bin\Release\SuperFileCategorizer.exe
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\bin\Release\SuperFileCategorizer.pdb
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.csproj.AssemblyReference.cache
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.Form1.resources
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.Properties.Resources.resources
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.csproj.GenerateResource.cache
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.csproj.CoreCompileInputs.cache
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.exe
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.pdb
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\bin\Release\SuperFileCategorizer.exe.manifest
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\bin\Release\SuperFileCategorizer.application
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.exe.manifest
+C:\coding\C-Sharp\SuperFileCategorizer\SuperFileCategorizer\SuperFileCategorizer\obj\Release\SuperFileCategorizer.application

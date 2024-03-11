@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFileCategorizer", "SuperFileCategorizer\SuperFileCategorizer.csproj", "{B2F54303-7DEC-4545-983A-2DDC3D19EAE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F54303-7DEC-4545-983A-2DDC3D19EAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F54303-7DEC-4545-983A-2DDC3D19EAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F54303-7DEC-4545-983A-2DDC3D19EAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F54303-7DEC-4545-983A-2DDC3D19EAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD459ED3-6B1F-4CFF-BDA3-B9B64C43F0AE}
+	EndGlobalSection
+EndGlobal
